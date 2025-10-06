@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "analysis_date": "2025-10-06T00:41:06.282936",
+    "total_publications": 607,
+    "ai_adoption_rate": "2.6%",
+    "total_gap": "591 publications"
+  },
+  "gap_analysis_by_area": {
+    "bone_muscle": {
+      "total_publications": 92,
+      "using_ai": 5,
+      "gap_count": 87,
+      "gap_percentage": 94.6,
+      "potential_ai_applications": [
+        "machine_learning",
+        "deep_learning",
+        "time_series"
+      ]
+    },
+    "cardiovascular": {
+      "total_publications": 28,
+      "using_ai": 6,
+      "gap_count": 22,
+      "gap_percentage": 78.6,
+      "potential_ai_applications": [
+        "machine_learning",
+        "deep_learning",
+        "time_series"
+      ]
+    },
+    "neurological": {
+      "total_publications": 14,
+      "using_ai": 0,
+      "gap_count": 14,
+      "gap_percentage": 100.0,
+      "potential_ai_applications": [
+        "machine_learning",
+        "deep_learning",
+        "time_series"
+      ]
+    },
+    "immune": {
+      "total_publications": 27,
+      "using_ai": 0,
+      "gap_count": 27,
+      "gap_percentage": 100.0,
+      "potential_ai_applications": [
+        "machine_learning",
+        "deep_learning",
+        "clustering"
+      ]
+    },
+    "cellular": {
+      "total_publications": 167,
+      "using_ai": 3,
+      "gap_count": 164,
+      "gap_percentage": 98.2,
+      "potential_ai_applications": [
+        "machine_learning",
+        "deep_learning",
+        "clustering"
+      ]
+    },
+    "radiation": {
+      "total_publications": 64,
+      "using_ai": 1,
+      "gap_count": 63,
+      "gap_percentage": 98.4,
+      "potential_ai_applications": [
+        "machine_learning",
+        "deep_learning",
+        "time_series"
+      ]
+    },
+    "microgravity": {
+      "total_publications": 199,
+      "using_ai": 6,
+      "gap_count": 193,
+      "gap_percentage": 97.0,
+      "potential_ai_applications": [
+        "machine_learning",
+        "deep_learning",
+        "time_series"
+      ]
+    }
+  },
+  "ai_techniques_potential": {
+    "machine_learning": "Para predi\u00e7\u00e3o de biomarcadores e identifica\u00e7\u00e3o de padr\u00f5es",
+    "deep_learning": "Para an\u00e1lise de imagens m\u00e9dicas e dados multi-dimensionais",
+    "nlp": "Para minera\u00e7\u00e3o de literatura cient\u00edfica e extra\u00e7\u00e3o de conhecimento",
+    "computer_vision": "Para an\u00e1lise de imagens de tecidos e c\u00e9lulas",
+    "time_series": "Para an\u00e1lise longitudinal de dados de sa\u00fade",
+    "clustering": "Para identifica\u00e7\u00e3o de subgrupos e fen\u00f3tipos",
+    "causal_inference": "Para identificar rela\u00e7\u00f5es causais entre vari\u00e1veis"
+  },
+  "key_findings": [
+    "97.4% das publica\u00e7\u00f5es de biologia espacial n\u00e3o utilizam IA",
+    "\u00c1reas com maior potencial: neurol\u00f3gica, celular, e radia\u00e7\u00e3o",
+    "Principais oportunidades: ML para biomarcadores, DL para imagens, an\u00e1lise preditiva",
+    "ROI potencial: identifica\u00e7\u00e3o precoce de riscos, personaliza\u00e7\u00e3o de contramedidas"
+  ]
+}
